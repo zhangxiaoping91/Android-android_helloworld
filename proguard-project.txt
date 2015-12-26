@@ -19,4 +19,5 @@
 #   public *;
 # this is Mr.zhang's first android application
 # my name is zhangxiaoping
+# I will study android
 #}
